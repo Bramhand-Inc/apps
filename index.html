@@ -48,6 +48,8 @@ li{margin:4px 0}
 .shot{margin-top:20px;display:flex;justify-content:center}
 .shot img{max-width:100%;width:260px;border-radius:20px;
   border:1px solid var(--line);display:block}
+/* for landscape / near-square marketing graphics rather than phone screenshots */
+.shot.wide img{width:440px;border-radius:14px}
 .row{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-top:20px}
 .btn{display:inline-block;background:var(--accent);color:var(--accent-fg);
   text-decoration:none;font-weight:600;font-size:15px;padding:11px 20px;border-radius:10px}
@@ -113,6 +115,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:28px 0 60px;
     <li>Barcode scanning plus an offline USDA food database — calories, protein, carbs and fat</li>
     <li>Glucose tab reads your CGM data from Apple Health, alongside your meals and fasts</li>
   </ul>
+  <div class="shot wide"><img src="macrofast-slide.png" alt="MacroFast showing calorie and macro rings"></div>
   <div class="row">
     <a class="btn" href="https://apps.apple.com/app/id6784746657">Download on the App Store</a>
   </div>
