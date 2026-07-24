@@ -51,6 +51,15 @@ li{margin:4px 0}
 /* for landscape / near-square marketing graphics rather than phone screenshots */
 .shot.wide img{width:440px;border-radius:14px}
 .shot.mid img{width:330px;border-radius:16px}
+.badge-link{display:inline-block;line-height:0}
+.badge-link img{height:44px;width:auto;display:block}
+.badge-wht{display:none}
+@media (prefers-color-scheme: dark){
+  .badge-blk{display:none}
+  .badge-wht{display:block}
+}
+/* kept clear of the badge per Apple's badge clear-space guidance */
+.iap{font-size:12px;color:var(--muted);margin:10px 0 0}
 .row{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-top:20px}
 .btn{display:inline-block;background:var(--accent);color:var(--accent-fg);
   text-decoration:none;font-weight:600;font-size:15px;padding:11px 20px;border-radius:10px}
@@ -97,8 +106,9 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:28px 0 60px;
   </ul>
   <div class="shot"><img src="rythm-slide.png" alt="Rythm showing recovery, sleep, strain and stress scores"></div>
   <div class="row">
-    <a class="btn" href="https://apps.apple.com/app/id6785047172">Download on the App Store</a>
+    <a class="badge-link" href="https://apps.apple.com/app/id6785047172" aria-label="Download Rythm on the App Store"><img class="badge-blk" src="appstore-badge.svg" alt="Download on the App Store"><img class="badge-wht" src="appstore-badge-white.svg" alt="Download on the App Store"></a>
   </div>
+  <p class="iap">Subscription required</p>
 </section>
 
 <!-- ───────────── MacroFast ───────────── -->
@@ -118,8 +128,9 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:28px 0 60px;
   </ul>
   <div class="shot wide"><img src="macrofast-slide.png" alt="MacroFast showing calorie and macro rings"></div>
   <div class="row">
-    <a class="btn" href="https://apps.apple.com/app/id6784746657">Download on the App Store</a>
+    <a class="badge-link" href="https://apps.apple.com/app/id6784746657" aria-label="Download MacroFast on the App Store"><img class="badge-blk" src="appstore-badge.svg" alt="Download on the App Store"><img class="badge-wht" src="appstore-badge-white.svg" alt="Download on the App Store"></a>
   </div>
+  <p class="iap">Free download &middot; Premium subscription available</p>
 </section>
 
 <!-- ───────────── Fastoria ───────────── -->
@@ -139,8 +150,9 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:28px 0 60px;
   </ul>
   <div class="shot mid"><img src="fastoria-slide.png" alt="Fastoria fasting timer showing elapsed time and fasting zone"></div>
   <div class="row">
-    <a class="btn" href="https://apps.apple.com/app/id6785129214">Download on the App Store</a>
+    <a class="badge-link" href="https://apps.apple.com/app/id6785129214" aria-label="Download Fastoria on the App Store"><img class="badge-blk" src="appstore-badge.svg" alt="Download on the App Store"><img class="badge-wht" src="appstore-badge-white.svg" alt="Download on the App Store"></a>
   </div>
+  <p class="iap">Free download &middot; Premium subscription available</p>
 </section>
 
 <!-- ───────────── MySleepMusic ───────────── -->
@@ -163,6 +175,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:28px 0 60px;
          <a class="btn" href="https://apps.apple.com/app/id6790239603">Download on the App Store</a> -->
     <span class="btn btn-soon">Coming soon to the App Store</span>
   </div>
+  <p class="iap">Subscription required</p>
 </section>
 
 <footer>
