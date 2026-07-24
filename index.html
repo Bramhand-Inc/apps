@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bramhand Apps — health &amp; wellness apps for iPhone</title>
+<meta name="description" content="Simple, private iPhone apps for recovery, sleep, fasting and nutrition. No accounts, no ads, your data stays on your device.">
+<meta property="og:title" content="Bramhand Apps">
+<meta property="og:description" content="Simple, private iPhone apps for recovery, sleep, fasting and nutrition.">
+<meta property="og:type" content="website">
+<style>
+:root{
+  --bg:#ffffff; --bg-soft:#f6f7f9; --fg:#14161a; --muted:#5c6470;
+  --line:#e4e7ec; --accent:#2f6df6; --accent-fg:#fff; --card:#fff;
+  --radius:16px;
+}
+@media (prefers-color-scheme: dark){
+  :root{ --bg:#0f1115; --bg-soft:#151922; --fg:#e9ecf1; --muted:#9aa3b2;
+         --line:#242a35; --accent:#5b8cff; --card:#151922; }
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth; scroll-padding-top:24px}
+body{margin:0;background:var(--bg);color:var(--fg);
+  font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased}
+.wrap{max-width:760px;margin:0 auto;padding:0 20px}
+header{padding:64px 0 40px;text-align:center}
+.logo{width:56px;height:56px;border-radius:14px;background:var(--accent);
+  display:inline-flex;align-items:center;justify-content:center;
+  color:var(--accent-fg);font-weight:700;font-size:24px;margin-bottom:20px}
+h1{font-size:34px;line-height:1.2;margin:0 0 12px;letter-spacing:-.02em}
+.sub{color:var(--muted);font-size:17px;margin:0 auto;max-width:34em}
+.badges{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:22px}
+.badge{font-size:13px;color:var(--muted);border:1px solid var(--line);
+  border-radius:999px;padding:5px 12px}
+.app{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+  padding:26px;margin:0 0 20px}
+.app:target{border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 18%,transparent)}
+.app-head{display:flex;align-items:center;gap:14px;margin-bottom:6px}
+.icon{width:52px;height:52px;border-radius:13px;flex:none;display:flex;
+  align-items:center;justify-content:center;font-size:26px;background:var(--bg-soft)}
+.icon img{width:100%;height:100%;border-radius:13px;object-fit:cover}
+h2{font-size:20px;margin:0;letter-spacing:-.01em}
+.tag{color:var(--muted);font-size:14px;margin:2px 0 0}
+.desc{margin:14px 0 0}
+ul{margin:14px 0 0;padding-left:20px;color:var(--muted)}
+li{margin:4px 0}
+.row{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-top:20px}
+.btn{display:inline-block;background:var(--accent);color:var(--accent-fg);
+  text-decoration:none;font-weight:600;font-size:15px;padding:11px 20px;border-radius:10px}
+.btn:hover{filter:brightness(1.08)}
+.btn-soon{background:var(--bg-soft);color:var(--muted);
+  border:1px solid var(--line);cursor:default}
+.btn-soon:hover{filter:none}
+.links{font-size:13px;color:var(--muted)}
+.links a{color:var(--muted)}
+.share{font-size:13px;color:var(--muted);margin-top:14px}
+.share code{background:var(--bg-soft);border:1px solid var(--line);
+  border-radius:6px;padding:2px 6px;font-size:12px;word-break:break-all}
+a{color:var(--accent)}
+footer{border-top:1px solid var(--line);margin-top:48px;padding:28px 0 60px;
+  text-align:center;color:var(--muted);font-size:14px}
+@media (max-width:520px){
+  header{padding:44px 0 32px} h1{font-size:28px} .app{padding:20px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="logo">B</div>
+  <h1>Apps by Bramhand</h1>
+  <p class="sub">Small, focused iPhone apps for recovery, sleep, fasting and nutrition — built on Apple Health, with your data staying on your device.</p>
+  <div class="badges">
+    <span class="badge">No account needed</span>
+    <span class="badge">No ads</span>
+    <span class="badge">Data stays on device</span>
+  </div>
+</header>
+
+<!-- ───────────── Rythm ───────────── -->
+<section class="app" id="rythm">
+  <div class="app-head">
+    <div class="icon">🫀</div>
+    <div>
+      <h2>Rythm</h2>
+      <p class="tag">Recovery &amp; Strain</p>
+    </div>
+  </div>
+  <p class="desc">Know whether today is a day to push or a day to back off. Rythm reads your Apple Health data — HRV, resting heart rate, sleep and workouts — and turns it into a daily recovery score, a strain score, and a plain-English insight about what changed and why.</p>
+  <ul>
+    <li>Daily recovery, sleep, strain and stress scores</li>
+    <li>Cardio fitness age and long-term trends</li>
+    <li>A short daily insight explaining what moved your numbers</li>
+  </ul>
+  <div class="row">
+    <a class="btn" href="https://apps.apple.com/app/id6785047172">Download on the App Store</a>
+    <span class="links">
+      <a href="https://bramhand-inc.github.io/policies/rythm-privacy">Privacy</a> ·
+      <a href="https://bramhand-inc.github.io/policies/rythm-terms">Terms</a> ·
+      <a href="https://bramhand-inc.github.io/policies/rythm-support">Support</a>
+    </span>
+  </div>
+  <p class="share">Share just this app: <code>https://bramhand-inc.github.io/apps/#rythm</code></p>
+</section>
+
+<!-- ───────────── MacroFast ───────────── -->
+<section class="app" id="macrofast">
+  <div class="app-head">
+    <div class="icon">🥗</div>
+    <div>
+      <h2>MacroFast</h2>
+      <p class="tag">Calorie, Macro &amp; Fasting Tracker</p>
+    </div>
+  </div>
+  <p class="desc">Log what you eat without the busywork. Scan a barcode or point your camera at the plate, and MacroFast fills in calories and macros for you — with fasting windows tracked in the same app.</p>
+  <ul>
+    <li>Barcode scanning and photo-based food recognition</li>
+    <li>Calories, protein, carbs and fat at a glance</li>
+    <li>Built-in fasting timer alongside your food log</li>
+  </ul>
+  <div class="row">
+    <a class="btn" href="https://apps.apple.com/app/id6784746657">Download on the App Store</a>
+    <span class="links">
+      <a href="https://bramhand-inc.github.io/policies/macrofast-privacy">Privacy</a> ·
+      <a href="https://bramhand-inc.github.io/policies/macrofast-terms">Terms</a> ·
+      <a href="https://bramhand-inc.github.io/policies/macrofast-support">Support</a>
+    </span>
+  </div>
+  <p class="share">Share just this app: <code>https://bramhand-inc.github.io/apps/#macrofast</code></p>
+</section>
+
+<!-- ───────────── Fastoria ───────────── -->
+<section class="app" id="fastoria">
+  <div class="app-head">
+    <div class="icon">⏳</div>
+    <div>
+      <h2>Fastoria</h2>
+      <p class="tag">Intermittent Fasting Tracker</p>
+    </div>
+  </div>
+  <p class="desc">A clean, single-purpose fasting timer. Start your fast, watch the ring fill, and see your streak build on the calendar — no account, no sign-up, nothing to configure.</p>
+  <ul>
+    <li>Animated fasting timer with common presets (16:8, 18:6, OMAD)</li>
+    <li>Calendar history and streaks</li>
+    <li>Weight and health charts from Apple Health</li>
+  </ul>
+  <div class="row">
+    <a class="btn" href="https://apps.apple.com/app/id6785129214">Download on the App Store</a>
+    <span class="links">
+      <a href="https://bramhand-inc.github.io/policies/fastoria-privacy">Privacy</a> ·
+      <a href="https://bramhand-inc.github.io/policies/fastoria-terms">Terms</a> ·
+      <a href="https://bramhand-inc.github.io/policies/fastoria-support">Support</a>
+    </span>
+  </div>
+  <p class="share">Share just this app: <code>https://bramhand-inc.github.io/apps/#fastoria</code></p>
+</section>
+
+<!-- ───────────── MySleepMusic ───────────── -->
+<section class="app" id="mysleepmusic">
+  <div class="app-head">
+    <div class="icon">🌙</div>
+    <div>
+      <h2>MySleepMusic</h2>
+      <p class="tag">Sleep timer for Apple Music</p>
+    </div>
+  </div>
+  <p class="desc">Fall asleep to your own Apple Music library. Set a timer, and MySleepMusic fades the volume down gently and stops playback — so the music doesn't play all night or cut off abruptly.</p>
+  <ul>
+    <li>Sleep timer with a gradual volume fade-out</li>
+    <li>Plays your existing Apple Music library and playlists</li>
+    <li>Dark, dimmed night interface; keeps playing in the background</li>
+  </ul>
+  <div class="row">
+    <!-- Not yet approved. When it goes live, replace the <span> below with:
+         <a class="btn" href="https://apps.apple.com/app/id6790239603">Download on the App Store</a> -->
+    <span class="btn btn-soon">Coming soon to the App Store</span>
+    <span class="links">
+      <a href="https://bramhand-inc.github.io/policies/mysleepmusic-privacy">Privacy</a> ·
+      <a href="https://bramhand-inc.github.io/policies/mysleepmusic-terms">Terms</a> ·
+      <a href="https://bramhand-inc.github.io/policies/mysleepmusic-support">Support</a>
+    </span>
+  </div>
+  <p class="share">Share just this app: <code>https://bramhand-inc.github.io/apps/#mysleepmusic</code></p>
+</section>
+
+<footer>
+  <p>Questions or feedback: <strong>apps [at] bramhand [dot] com</strong></p>
+  <p>© Bramhand Inc.</p>
+</footer>
+
+</div>
+</body>
+</html>
