@@ -1,0 +1,86 @@
+# MySleepMusic — Support
+
+**MySleepMusic**
+Developed by Bramhand Inc.
+
+---
+
+## Getting Help
+
+If you have a question, found a bug, or have a feature request, we'd love to hear from you.
+
+Send an email to:
+
+**app  [at]  bramhand  [dot]  com**
+
+Please include:
+- A brief description of the issue or request
+- Your iPhone model (e.g. iPhone 15 Pro)
+- iOS version (Settings → General → About)
+- App version (About tab → version number)
+
+We aim to respond within **2 business days**.
+
+---
+
+## Frequently Asked Questions
+
+**Does MySleepMusic require an Apple Music subscription?**
+No. MySleepMusic plays any track from your personal music library — purchased songs, iTunes imports, or Apple Music downloads saved for offline listening. You do not need an active Apple Music subscription. If your library is empty, add music through the Music app first.
+
+**What does the sleep timer do?**
+The sleep timer counts down from the duration you choose (15 min to 2 hours). When the countdown ends, MySleepMusic gradually fades the volume to zero and stops playback — so you don't need to remember to stop it manually.
+
+**What is "Play Forever" mode?**
+Play Forever mode plays music indefinitely without a countdown. You can optionally configure a gentle volume fade that starts after a delay (e.g., fade down 40% after 30 minutes) so the music settles to a quieter level while you sleep.
+
+**Can I customize the fade?**
+Yes. Tap the **Fade** tab at the bottom of the screen to open Fade Settings. You can adjust:
+- **Fade start offset** — how early before the timer ends the fade begins
+- **Fade step interval** — how often the volume steps down (default: every 30 seconds)
+- **Fade step amount** — how much volume decreases each step (default: 5%)
+- **Play Forever fade** — the delay before fade starts, and the percentage to fade down to
+
+Tap **Apply** to save your changes.
+
+**Why does the volume slider control the system volume?**
+MySleepMusic adjusts the system output volume (the same volume controlled by the physical buttons) so the change takes effect for background playback and after the screen locks. Your volume is saved automatically — just set it where you want it and the app remembers it next time.
+
+**Will the faded volume carry over to my next session?**
+No. When you restart the app, the volume is always restored to your last manually set level — never the faded-down level from a previous sleep session.
+
+**The screen dims while music plays — how do I control that?**
+This is the Night Display feature. It dims your screen automatically to a low brightness to avoid disrupting your sleep. The dimming stops when you leave the app or stop playback. If you don't want this behavior, you can cover the screen or lock your phone normally — the music continues in the background.
+
+**How do I add songs to my sleep playlist?**
+Go to the **Songs** tab and tap **+** in the top-right corner. Tap any song to add it instantly — the picker closes automatically. Tap **+** again to add another song.
+
+**Where is my playlist stored?**
+Your sleep playlist is stored locally on your iPhone in the app's private storage. It is not synced to iCloud or any server. If you delete the app, your playlist selection is lost (the music itself remains in your library).
+
+**Does MySleepMusic require a purchase?**
+Yes. MySleepMusic is unlocked by a one-time in-app purchase of $2.99. Pay once and all features are yours permanently — sleep timer, volume fade, play-forever mode, night display, and music library access. There are no subscriptions and no recurring charges.
+
+**I bought the app but it's still showing the paywall.**
+Tap **Restore Purchase** on the paywall screen, or go to the **About** tab and tap **Restore Purchases**. If the issue persists, sign out and back into your Apple ID (Settings → [your name] → Sign Out), then reopen the app and try restoring again.
+
+**Can I use my purchase on multiple devices?**
+Yes. Your purchase is tied to your Apple ID. Sign in with the same Apple ID on any of your devices and tap **Restore Purchase** to unlock the app at no extra charge.
+
+**Can I use MySleepMusic while another app plays audio?**
+MySleepMusic takes over audio playback when you press Play, which stops other audio sources (Spotify, Podcasts, etc.) as expected for a music player.
+
+**Does the timer work when my phone is locked?**
+Yes. The sleep timer and fade continue running in the background while your phone is locked. iOS background audio keeps the timer active.
+
+---
+
+## Privacy Policy & Terms of Use
+
+- [Privacy Policy](https://bramhand-inc.github.io/policies/mysleepmusic-privacy)
+- [Terms of Use](https://bramhand-inc.github.io/policies/mysleepmusic-terms)
+
+---
+
+*Last updated: July 2026*
+*Bramhand Inc.*
