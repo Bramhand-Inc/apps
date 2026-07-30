@@ -14,9 +14,10 @@ VO2Stats has no account or sign-in of any kind. Everything the app produces is s
 ## Apple Health (HealthKit)
 
 VO2Stats requests **read-only** access to Apple Health. It **never writes any data back to Apple Health**. It reads the following, entirely on-device:
-- Workouts (running and walking)
+- Workouts (running, walking, and cycling)
 - Heart rate and resting heart rate
-- Walking and running distance
+- Walking, running, and cycling distance
+- Cycling power (watts, from Apple Watch)
 - Active energy burned
 - Step count
 - Body weight and height

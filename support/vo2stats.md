@@ -58,7 +58,7 @@ Each method needs specific data. A running-pace method needs recorded outdoor ru
 No. All calculations run entirely on-device. VO2Stats has no backend and transmits no data.
 
 **Does VO2Stats cost anything?**
-No. VO2Stats is free, with no subscription, no in-app purchases, and no ads.
+VO2Stats is a one-time paid purchase — you pay once and own the app. There is no subscription, no recurring charge, no in-app purchases, and no ads.
 
 **Can I transfer my data to a new iPhone?**
 Your estimates are recomputed from the Apple Health data on your device, so once your new iPhone has your Health history (for example, restored from an iCloud backup), VO2Stats will show your estimates again.
@@ -67,7 +67,19 @@ Your estimates are recomputed from the Apple Health data on your device, so once
 
 ## About the Methods
 
-VO2Stats calculates VO₂ max using nine established, peer-reviewed approaches, including the heart-rate-ratio method, a running-performance method, a submaximal heart-rate method, a walk-test method, a 12-minute-run method, a non-exercise estimate, and a heart-rate-recovery method. Each method's formula, its scientific reference, and its limitations are shown in the app under the **Methods Guide** tab. These sources are provided for transparency and are not personalized medical recommendations — VO2Stats is not a medical device.
+VO2Stats calculates VO₂ max using nine established, peer-reviewed approaches:
+
+1. **Jack Daniels VDOT** — running pace and distance converted to a VDOT fitness score
+2. **Submaximal HR (Firstbeat-style)** — linear heart-rate/speed relationship extrapolated to HRmax
+3. **Uth-Sørensen** — ratio of maximum to resting heart rate
+4. **Rockport Walk Test** — 1-mile walk with end heart rate, weight, age, and sex
+5. **Cooper 12-Min Run** — distance covered in 12 minutes
+6. **Non-Exercise / Wier** — age, body metrics, and daily step/calorie data; no workout needed
+7. **HR Recovery** — rate of heart rate drop in the 60 seconds after exercise
+8. **Åstrand-Rhyming (Cycling)** — submaximal cycling power and steady-state heart rate, with age correction
+9. **Coggan FTP (Cycling)** — best 20-minute average cycling power normalised to body weight
+
+Each method's formula, its scientific reference, and its limitations are shown in the app under the **Methods Guide** tab. These sources are provided for transparency and are not personalized medical recommendations — VO2Stats is not a medical device.
 
 Two representative references:
 

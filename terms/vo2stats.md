@@ -12,7 +12,7 @@ This agreement is between you and Bramhand Inc. only, and not with Apple Inc. Br
 Bramhand Inc. grants you a personal, non-transferable, non-exclusive license to use VO2Stats on any Apple-branded device that you own or control, as permitted by the Apple Media Services Terms and Conditions (Usage Rules). This license does not allow you to use VO2Stats on any device you do not own or control. You may use VO2Stats through Family Sharing or volume purchasing programs as permitted by Apple's Usage Rules.
 
 ## Price
-VO2Stats is free. There is no subscription, no in-app purchase, and no advertising.
+VO2Stats is a one-time paid purchase. There is no subscription, no recurring charge, no in-app purchases, and no advertising. You pay once and own the app.
 
 ## Not Medical Advice
 
