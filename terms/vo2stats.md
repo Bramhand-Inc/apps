@@ -66,5 +66,5 @@ We may update these terms at any time. Continued use of the app constitutes acce
 
 ## Contact
 Bramhand Inc.
-Email: app  [at]  bramhand  [dot]  com
+Email: app AT bramhand DOT com
 Website: https://app.bramhand.com/support/vo2stats

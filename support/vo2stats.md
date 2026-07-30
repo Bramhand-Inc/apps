@@ -22,7 +22,7 @@ If you have a question, found a bug, or have a feature request, we'd love to hea
 
 Send an email to:
 
-**app  [at]  bramhand  [dot]  com**
+**app AT bramhand DOT com**
 
 Please include:
 - A brief description of the issue or request
@@ -67,7 +67,7 @@ Your estimates are recomputed from the Apple Health data on your device, so once
 
 ## About the Methods
 
-VO2Stats calculates VO₂ max using several established, peer-reviewed approaches, including the heart-rate-ratio method, a running-performance method, a submaximal heart-rate method, a walk-test method, a 12-minute-run method, a non-exercise estimate, and a heart-rate-recovery method. Each method's formula, its scientific reference, and its limitations are shown in the app under the **Methods Guide** tab. These sources are provided for transparency and are not personalized medical recommendations — VO2Stats is not a medical device.
+VO2Stats calculates VO₂ max using nine established, peer-reviewed approaches, including the heart-rate-ratio method, a running-performance method, a submaximal heart-rate method, a walk-test method, a 12-minute-run method, a non-exercise estimate, and a heart-rate-recovery method. Each method's formula, its scientific reference, and its limitations are shown in the app under the **Methods Guide** tab. These sources are provided for transparency and are not personalized medical recommendations — VO2Stats is not a medical device.
 
 Two representative references:
 
