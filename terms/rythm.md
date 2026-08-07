@@ -1,6 +1,6 @@
 # Terms of Use — Rythm
 
-**Last updated: July 9, 2026**
+**Last updated: August 7, 2026**
 
 ## Acceptance
 By downloading or using Rythm, you agree to these terms. If you do not agree, do not use the app.
@@ -34,6 +34,7 @@ Rythm is a personal wellness and fitness tracking tool. It is **not** a medical 
 
 - Recovery, strain, stress, and Cardio Fitness Age scores are wellness estimates derived from your Apple Health data — they are not clinical measurements and are not reviewed by a physician.
 - AI-generated insights and training recommendations are produced automatically by an on-device AI model. Like all AI, it can be inaccurate, incomplete, or misleading, and it may occasionally generate statements that do not reflect your actual data. They are informational suggestions based on your own historical data — not professional coaching or medical guidance — and should not be relied upon for any health or medical decision.
+- The optional "Ask Your Own AI" feature lets you copy a summary of your data to paste into a third-party AI service of your choice. Any interpretation, insight, or recommendation produced by such a third-party service is likewise informational only, is generated outside Rythm and beyond Bramhand Inc.'s control, and is subject to that service's own terms — it is not medical advice and should not be relied upon for any health or medical decision.
 - Heart rate zone calculations use standard physiological formulas personalized to your data — they are estimates, not precise medical readings.
 
 **Always consult a qualified healthcare provider before making changes to your exercise routine, sleep habits, or when interpreting any health metric shown in the app, particularly if you have a medical condition.**
@@ -83,6 +84,10 @@ These terms are governed by the laws of the State of Delaware, United States.
 
 ## Changes
 We may update these terms at any time. Continued use of the app constitutes acceptance of updated terms.
+
+## Version History
+- **August 7, 2026:** Added a "Not Medical Advice" provision covering the optional "Ask Your Own AI" feature and third-party AI output.
+- **July 9, 2026:** Initial published terms.
 
 ## Contact
 Bramhand Inc.
