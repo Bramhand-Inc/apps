@@ -88,8 +88,8 @@ Yes — iCloud backup includes your MacroFast data if you have iCloud Backup ena
 
 ## Privacy Policy & Terms of Use
 
-- [Privacy Policy](https://bramhand-inc.github.io/policies/macrofast-privacy)
-- [Terms of Use](https://bramhand-inc.github.io/policies/macrofast-terms)
+- [Privacy Policy](https://app.bramhand.com/privacy/macrofast)
+- [Terms of Use](https://app.bramhand.com/terms/macrofast)
 
 ---
 

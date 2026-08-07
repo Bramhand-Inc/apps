@@ -96,8 +96,8 @@ Rythm's scores are built on established, peer-reviewed physiology. The full list
 
 ## Privacy Policy & Terms of Use
 
-- [Privacy Policy](https://bramhand-inc.github.io/policies/rythm-privacy)
-- [Terms of Use](https://bramhand-inc.github.io/policies/rythm-terms)
+- [Privacy Policy](https://app.bramhand.com/privacy/rythm)
+- [Terms of Use](https://app.bramhand.com/terms/rythm)
 
 ---
 

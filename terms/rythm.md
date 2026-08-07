@@ -92,4 +92,4 @@ We may update these terms at any time. Continued use of the app constitutes acce
 ## Contact
 Bramhand Inc.
 Email: app AT bramhand DOT com
-Website: https://bramhand-inc.github.io/policies/rythm-support
+Website: https://app.bramhand.com/support/rythm

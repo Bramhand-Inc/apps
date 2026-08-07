@@ -77,8 +77,8 @@ Yes. The sleep timer and fade continue running in the background while your phon
 
 ## Privacy Policy & Terms of Use
 
-- [Privacy Policy](https://bramhand-inc.github.io/policies/mysleepmusic-privacy)
-- [Terms of Use](https://bramhand-inc.github.io/policies/mysleepmusic-terms)
+- [Privacy Policy](https://app.bramhand.com/privacy/mysleepmusic)
+- [Terms of Use](https://app.bramhand.com/terms/mysleepmusic)
 
 ---
 
