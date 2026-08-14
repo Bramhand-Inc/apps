@@ -14,7 +14,7 @@ Bramhand Inc. grants you a personal, non-transferable, non-exclusive license to 
 ## Purchase
 
 ### One-Time Payment
-MySleepMusic is unlocked by a one-time, non-consumable in-app purchase. The price is shown in the App Store and in the app at the time of purchase. Payment is charged to your Apple ID account at purchase confirmation.
+MySleepMusic is a paid app purchased directly from the App Store. The price is shown in the App Store at the time of purchase. Payment is charged to your Apple ID account at purchase confirmation.
 
 ### What's Included
 After purchase, all features are permanently unlocked — sleep timer, volume fade, play-forever mode, night display dimming, and music library access. There are no recurring charges and no subscription.

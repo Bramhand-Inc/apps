@@ -59,13 +59,13 @@ Go to the **Songs** tab and tap **+** in the top-right corner. Tap any song to a
 Your sleep playlist is stored locally on your iPhone in the app's private storage. It is not synced to iCloud or any server. If you delete the app, your playlist selection is lost (the music itself remains in your library).
 
 **Does MySleepMusic require a purchase?**
-Yes. MySleepMusic is unlocked by a one-time in-app purchase of $2.99. Pay once and all features are yours permanently — sleep timer, volume fade, play-forever mode, night display, and music library access. There are no subscriptions and no recurring charges.
+Yes. MySleepMusic is a paid app — purchase it once from the App Store for $2.99 and all features are yours permanently — sleep timer, volume fade, play-forever mode, night display, and music library access. There are no subscriptions and no recurring charges.
 
-**I bought the app but it's still showing the paywall.**
-Tap **Restore Purchase** on the paywall screen, or go to the **About** tab and tap **Restore Purchases**. If the issue persists, sign out and back into your Apple ID (Settings → [your name] → Sign Out), then reopen the app and try restoring again.
+**I bought the app but features are locked.**
+Delete and reinstall the app from the App Store using the same Apple ID you purchased with — reinstalls are free. If the issue persists, contact us at support.
 
 **Can I use my purchase on multiple devices?**
-Yes. Your purchase is tied to your Apple ID. Sign in with the same Apple ID on any of your devices and tap **Restore Purchase** to unlock the app at no extra charge.
+Yes. Your App Store purchase is tied to your Apple ID. Reinstall from the App Store on any of your devices using the same Apple ID — no extra charge.
 
 **Can I use MySleepMusic while another app plays audio?**
 MySleepMusic takes over audio playback when you press Play, which stops other audio sources (Spotify, Podcasts, etc.) as expected for a music player.
