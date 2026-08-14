@@ -1,6 +1,6 @@
 # Privacy Policy — Gym
 
-**Last updated: July 2026**
+**Last updated: August 2026**
 
 ## Summary
 Gym stores all your data on your device. We do not collect, transmit, or share your personal information. There is no account, no sign-in, and no server.
@@ -16,7 +16,17 @@ Gym has no account or sign-in of any kind. Everything the app produces is stored
 All of this is processed and stored on your device. None of it is uploaded, transmitted, or shared with us or anyone else.
 
 ## Apple Health
-Gym does **not** connect to Apple Health. It does not read from or write to HealthKit.
+Connecting Apple Health is **optional** and **off until you turn it on**. When you enable it, Gym requests **read-only** access to the workout data around your training sessions — workouts, active energy (calories), heart rate, resting heart rate, and your date of birth (used only to estimate heart-rate zones).
+
+- Gym **only reads** from Apple Health. It **never writes** any data to HealthKit.
+- Health data is read on demand, used on your device to enrich your session review (calories and heart-rate zones), and is **never uploaded, transmitted, or shared** with us or anyone else.
+- You can turn Health access off at any time in the app menu, or in the iOS Settings → Health → Data Access & Devices screen. With it off, Gym works fully using only the data you enter.
+
+## On-Device Intelligence
+Gym can generate a plain-language review of your workout. On iPhones that support Apple Intelligence this runs **on your device** using Apple's built-in models — your workout data is not sent to us or to any external service. You may also choose to copy a summary of your session to paste into a separate AI assistant of your own; that only happens when you initiate it, and anything you paste elsewhere is then governed by that service's privacy policy.
+
+## Importing Data
+Gym lets you import workout history from a CSV file (for example, an export from another fitness app or your own spreadsheet). The file you choose is read locally on your device and its workouts are added to your on-device history. Imported files are not uploaded anywhere.
 
 ## Notifications
 If you turn on inactivity reminders, Gym schedules **local** notifications on your device (for example, a nudge if you haven't logged a workout in a few days). These are generated entirely on your device and are not sent through any server.
