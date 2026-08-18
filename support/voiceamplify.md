@@ -56,7 +56,7 @@ Yes. If you connect a wired or Bluetooth microphone, Voice Amplify can use it as
 No. Audio is processed live and is never recorded, saved, or sent anywhere. See our [Privacy Policy](https://app.bramhand.com/privacy/voiceamplify).
 
 **Does it keep working when the screen is off?**
-Voice Amplify can continue amplifying while the screen is locked, so you don't have to keep the app in the foreground.
+Voice Amplify amplifies while the app is open on screen. If you lock the phone or switch to another app, amplification stops. To keep the screen from dimming during use, you can raise the Auto-Lock time in Settings → Display & Brightness → Auto-Lock.
 
 **Does Voice Amplify work without internet?**
 Yes. Everything runs entirely on your device with no internet connection.
