@@ -1,6 +1,6 @@
 # Terms of Use — Gym
 
-**Last updated: July 2026**
+**Last updated: August 2026**
 
 ## Acceptance
 By downloading or using Gym, you agree to these terms. If you do not agree, do not use the app.
