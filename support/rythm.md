@@ -78,6 +78,9 @@ Tap "Restore Purchases" on the paywall screen. If the issue persists, sign out a
 **Can I transfer my data to a new iPhone?**
 Yes — iCloud backup includes your Rythm data if you have iCloud Backup enabled. Restore your new iPhone from an iCloud backup and your history will carry over.
 
+**Does Rythm work on iPhone Duo?**
+Yes. From version 1.0.6, Rythm fills both the outer and inner screens and adjusts as you fold and unfold, keeping your scores and charts in a readable column on the larger display.
+
 ---
 
 ## Scientific References
@@ -101,5 +104,5 @@ Rythm's scores are built on established, peer-reviewed physiology. The full list
 
 ---
 
-*Last updated: July 2026*
+*Last updated: November 2026*
 *Bramhand Inc.*
