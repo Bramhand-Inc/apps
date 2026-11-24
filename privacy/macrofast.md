@@ -1,9 +1,9 @@
 # Privacy Policy — MacroFast
 
-**Last updated: August 7, 2026**
+**Last updated: November 24, 2026**
 
 ## Summary
-MacroFast stores all your data on your device. We do not collect, transmit, or share your personal information.
+MacroFast stores all your data on your device, with an optional backup copy in your own private iCloud Drive. We do not collect, transmit, or share your personal information.
 
 ## Data We Store
 All data is stored locally on your device using Apple's SwiftData framework:
@@ -12,6 +12,13 @@ All data is stored locally on your device using Apple's SwiftData framework:
 - Daily nutrition goals and glucose goal range
 - Fasting window history
 - Subscription status (cached locally via UserDefaults)
+
+## iCloud Drive Backup
+If you are signed in to iCloud with iCloud Drive turned on, MacroFast can save a backup file to the app's private folder in **your own iCloud Drive**. A backup is made when you tap **Back Up Now** in the Goals tab, and automatically about once a week while the app is in use.
+
+A backup contains your food entries (name, calories, macros, fiber, serving size, date, meal type, barcode) and your daily nutrition goals, plus the app version, the backup date, and your device's name so you can tell backups from different devices apart. Meal photos and glucose data are not included.
+
+Backups are stored and synced by Apple under your Apple Account. We have no access to them. To delete them, go to **iPhone Settings → [your name] → iCloud → Manage Account Storage → MacroFast**. If iCloud Drive is off, no backup is made.
 
 ## Apple Health (HealthKit)
 

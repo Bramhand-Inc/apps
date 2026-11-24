@@ -82,7 +82,10 @@ Go to iPhone **Settings → Apple ID → Subscriptions → MacroFast**. You can 
 Tap "Restore Purchase" on the paywall screen. If the issue persists, sign out and back into your Apple ID, then try restoring again.
 
 **Can I transfer my data to a new iPhone?**
-Yes — iCloud backup includes your MacroFast data if you have iCloud Backup enabled. Restore your new iPhone from an iCloud backup and your history will carry over.
+Yes. Make sure iCloud Drive is on, then open the **Goals** tab and tap **Back Up Now** on your old iPhone. On the new iPhone, install MacroFast, sign in to the same Apple Account, and tap **Restore from iCloud** in the Goals tab (use **Choose another device's backup…** to pick the old phone's file). Restoring adds any missing entries and never deletes what's already on the device. MacroFast also backs up automatically about once a week, and a regular iCloud device backup includes your data too.
+
+**Does MacroFast work on iPhone Duo?**
+Yes. From version 1.4, MacroFast fills both the outer and inner screens and adjusts as you fold and unfold, keeping content in a readable column on the larger display.
 
 ---
 
