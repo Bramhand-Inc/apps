@@ -49,6 +49,9 @@ Swipe left on any session in the History tab to delete it. To clear all history,
 **The fasting timer didn't start / stop — why?**
 The timer is manual — tap the large circle on the home screen to start or stop a fast. The app does not auto-detect eating windows.
 
+**Does Fastoria work on iPhone Duo?**
+Yes. From version 1.0.4, Fastoria fills both the outer and inner screens and adjusts as you fold and unfold, keeping the timer, charts and calendar in a readable column on the larger display.
+
 ---
 
 ## Privacy
