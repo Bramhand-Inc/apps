@@ -63,6 +63,9 @@ VO2Stats is a one-time paid purchase — you pay once and own the app. There is 
 **Can I transfer my data to a new iPhone?**
 Your estimates are recomputed from the Apple Health data on your device, so once your new iPhone has your Health history (for example, restored from an iCloud backup), VO2Stats will show your estimates again.
 
+**Does VO2Stats work on iPhone Duo?**
+Yes. VO2Stats fills both the outer and inner screens and adjusts as you fold and unfold, keeping your estimates, charts and the Methods Guide in a readable column on the larger display.
+
 ---
 
 ## About the Methods
@@ -97,5 +100,5 @@ The complete list of references, with direct links, is available in the app's Me
 
 ---
 
-*Last updated: July 2026*
+*Last updated: November 2026*
 *Bramhand Inc.*
