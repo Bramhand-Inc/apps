@@ -73,6 +73,9 @@ MySleepMusic takes over audio playback when you press Play, which stops other au
 **Does the timer work when my phone is locked?**
 Yes. The sleep timer and fade continue running in the background while your phone is locked. iOS background audio keeps the timer active.
 
+**Does MySleepMusic work on iPhone Duo?**
+Yes. MySleepMusic fills both the outer and inner screens and adjusts as you fold and unfold, keeping Now Playing, your sleep playlist and fade settings in a readable column on the larger display.
+
 ---
 
 ## Privacy Policy & Terms of Use
@@ -82,5 +85,5 @@ Yes. The sleep timer and fade continue running in the background while your phon
 
 ---
 
-*Last updated: July 2026*
+*Last updated: November 2026*
 *Bramhand Inc.*
