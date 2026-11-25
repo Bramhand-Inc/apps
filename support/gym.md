@@ -94,6 +94,9 @@ Open Gym and use **Restore Purchases** on the subscription screen. Your subscrip
 **What happens if my subscription lapses?**
 Access to the app's features pauses until you resubscribe. Your data stays safely on your device and is available again as soon as you renew.
 
+**Does Gym work on iPhone Duo?**
+Yes. Gym fills both the outer and inner screens and adjusts as you fold and unfold, keeping your workout, trends and history in a readable column on the larger display.
+
 ---
 
 ## Privacy Policy & Terms of Use
